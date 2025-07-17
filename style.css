@@ -1,0 +1,18 @@
+.container{
+
+    margin-top: 55px;
+    background-color: rgb(255, 162, 40);
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+
+}
+
+.images {
+    width: 350px;
+    margin: 0 10px;
+    background-color: rgb(255, 173, 67);
+    padding: 25px;
+    justify-content: center;
+
+}
